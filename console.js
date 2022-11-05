@@ -1,10 +1,4 @@
-// hey this is a comment
+//1st commit
 console.log("Hello World")
-console.log("Hello World") // 2nd time!
-
-function main() {
-return null;
-}
-main()
-
-// console.log(main)
+//2nd commit
+console.log("Hello World")
