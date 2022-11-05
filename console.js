@@ -1,3 +1,4 @@
-// hey this is a comment
+//1st commit
 console.log("Hello World")
-
+//2nd commit
+console.log("Hello World")
