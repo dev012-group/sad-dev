@@ -15,3 +15,4 @@ public class C01_HelloWorld {
         String sonuc;
              sonuc="final";
         System.out.println(sonuc + " " + (not));
+        // clear next switch
