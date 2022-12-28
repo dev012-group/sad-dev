@@ -16,3 +16,7 @@ public class C01_HelloWorld {
              sonuc="final";
         System.out.println(sonuc + " " + (not));
         // clear next switch
+
+        int not;
+        not=150;
+        String sonuc;
