@@ -7,4 +7,5 @@ return null;
 }
 main()
 
+console.log("Hello World 2")
 // console.log(main)
