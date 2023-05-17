@@ -1,8 +1,6 @@
 const quickSort = (arr) => {
-
     if(arr.length < 2) return arr;
-    
-    // *** lấy phần tử cuối của 'arr' làm 'pivot'
+ 
     const pivotIndex = arr.length - 1;
     const pivot = arr[pivotIndex];
 
@@ -10,7 +8,6 @@ const quickSort = (arr) => {
     const right = [];
     
     let currentItem;
-    // *** 'i < pivotIndex' => chúng ta sẽ không loop qua 'pivot' nữa
     for(let i = 0; i < pivotIndex; i++) {
         currentItem = arr[i];
         
