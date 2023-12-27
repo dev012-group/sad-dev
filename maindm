@@ -1,0 +1,5 @@
+{
+        name: 'GitHub',
+        iconUrl: github,
+        link: 'https://github.com/YourGitHubUsername',
+    },
