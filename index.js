@@ -8,3 +8,6 @@ function myFunc() {
   return null;
   
 }
+
+
+console.log("Hello wolrd") // 3rd time
